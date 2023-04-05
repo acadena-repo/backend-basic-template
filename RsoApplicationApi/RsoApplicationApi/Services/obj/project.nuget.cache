@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdZAVl6ueN/INeT7mtdq2ILh/+Doi4Jhu56QPcw6mBkmSYUNG1hM09jVCwMQVDoC6tFYKFOGgBk1iY5kG9B0Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caal13\\SMS GROUP\\01 OFFICE\\09 AZURE REPOS\\roll-shop-optimizer-backend\\RsoApplicationApi\\RsoApplicationApi\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caal13\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\caal13\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
